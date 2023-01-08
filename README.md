@@ -4,13 +4,11 @@ This script will iterate through all the files in the given directory, and renam
 
 For example, if the directory contains the following files:
 
-Copy code
 file1.txt
 file2.txt
 file3.txt
 After running the script, the files will be renamed to:
 
-Copy code
 1.txt
 2.txt
 3.txt
